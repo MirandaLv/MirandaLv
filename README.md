@@ -8,7 +8,7 @@
 I am a geospatial research scientist at [William & Mary](https://www.wm.edu). My research interests include geospatial data science, remote sensing, and machine learning. My research is mainly centered on the application of deep learning and machine learning techiques with high-resolution satellite imagery applied for social, environmental, and economic good. To learn more about my current research and work, check out [here](https://mirandalv.github.io/).
 
 
-- 🔭 I’m currently working on satellite derived bathymetry leveraging AI techniques.
+- 🔭 I’m currently working on AI for good research leverage satellite imagery.
 - 🌱 I’m currently learning [AWS solution architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and the [MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) specialization from Coursera.
 - 👯 I’m a supporter of open-source, and I believe in knowledge sharing.
 - 📫 How to reach me: Click the linkedin button above :)
